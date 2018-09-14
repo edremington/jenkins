@@ -1,3 +1,4 @@
+import jenkins.model.Jenkins
 import jenkins.model.*
 import java.util.logging.Logger
 
